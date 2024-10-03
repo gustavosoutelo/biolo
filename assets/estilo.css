@@ -13,5 +13,8 @@
     flex-basis: calc(33% - 6rem);
     margin: 1rem 1rem
     front: size 28px;
-    
+}
+
+.cartao--resposta{
+    front: size 20px;
 }
