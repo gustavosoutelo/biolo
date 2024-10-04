@@ -20,7 +20,7 @@
     text-align: center;
 }
 
-.cartao :hover .cartao--conteudo{
+.cartao:hover .cartao--conteudo{
     background-color: blueviolet;
     transform: rotateY(180deg);
 }
