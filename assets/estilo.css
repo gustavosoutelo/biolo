@@ -20,6 +20,9 @@
     text-align: center;
 }
 
+.cartao:hover{
+    background-color: blueviolet;
+}
 .cartao--resposta{
     font-size: 20px;
 }
