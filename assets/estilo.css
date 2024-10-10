@@ -37,7 +37,9 @@
     backface-visibility: hidden;
 }
 
-
+.cartao--resposta{
+    transform: rotateY('180edg');
+}
 
 footer{
     background-color: black;
