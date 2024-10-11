@@ -9,8 +9,7 @@
 
 .cartao{
     
-    color: gold;
-    border-radius: 30px;
+    color: blueviolet;
     height: 20rem;
     width: 25rem;
     flex-grow: 1;
