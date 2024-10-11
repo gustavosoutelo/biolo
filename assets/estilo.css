@@ -41,7 +41,7 @@
 }
 
 .cartao--resposta{
-    transform: rotateY('180edg');
+    transform: rotateY('180deg');
 }
 
 footer{
