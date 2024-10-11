@@ -20,7 +20,7 @@
 }
 
 .cartao:hover .cartao--conteudo{
-    background-color: blueviolet;
+    background-color: rgb(216, 118, 13);
     transform: rotateY(180deg);
 }
 .cartao--resposta{
