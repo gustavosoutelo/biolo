@@ -10,4 +10,4 @@ cartao.innerHTML = `<div class="cartao--conteudo">
 
 conteudo.appendChild(cartao)
 }
-criarCartao()
+criarCartao(1,2)
