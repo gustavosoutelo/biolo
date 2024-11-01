@@ -9,7 +9,8 @@ criarCartao(
 criarCartao(
     "pergunta 3" ,
     "resposta 3"
-)criarCartao(
+)
+criarCartao(
     "pergunta 4" ,
     "resposta 4"
 )
