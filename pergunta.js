@@ -1,24 +1,24 @@
 criarCartao(
-    "pergunta 1" ,
-    "resposta 1"
+    "PARA QUE SERVE A GENETICA?" ,
+    ""
 )
 criarCartao(
-    "pergunta 2" ,
+    "QUEM É CONSIDERADO MENDEL PARA A GENETICA?" ,
     "resposta 2"
 )
 criarCartao(
-    "pergunta 3" ,
+    "POR QUE A ESCOLHA DE ESTUDAR ERVILHAS? " ,
     "resposta 3"
 )
 criarCartao(
-    "pergunta 4" ,
+    "O  QUE É UM GENE HETEROZIGOTO OU HOMOZIGOTO?" ,
     "resposta 4"
 )
 criarCartao(
-    "pergunta 5" ,
+    "QUAL SIGNIFICADO DE UM ALELO RECESIVO OU DOMINANTE? " ,
     "resposta 5"
 )
 criarCartao(
-    "pergunta 6" ,
+    "QUAL DIFERENÇA ENTRE A PRIMEIRA E A SEGUNDA LEI DE MENDEL?" ,
     "resposta 6"
 )
