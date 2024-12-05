@@ -4,7 +4,7 @@ criarCartao(
 )
 criarCartao(
     "QUEM É CONSIDERADO MENDEL PARA A GENETICA?" ,
-    "Gregor Mendel é considerado o "pai da genética" devido às suas descobertas fundamentais sobre a hereditariedade, baseadas em experimentos com plantas de ervilha."
+    "Gregor Mendel é considerado o 'pai da genética' devido às suas descobertas fundamentais sobre a hereditariedade, baseadas em experimentos com plantas de ervilha."
 )
 criarCartao(
     "POR QUE A ESCOLHA DE ESTUDAR ERVILHAS? " ,
